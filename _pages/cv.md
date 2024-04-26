@@ -20,7 +20,7 @@ Education
 
 Working Papers
 ======
-* Haygood, Ryan. "Do For-Profit Colleges Pull Students into Higher Education or away from Better Schools? Evidence from Campus Closures." November (2023).
+* Haygood, Ryan. "Do For-Profit Colleges Pull Students into Higher Education or away from Better Schools?" November (2023).
 * Zavala, Lucas, Ana Fernandes, Ryan Haygood, Tristan Reed, and Jose-Daniel Reyes. "Quality Regulation Creates and Reallocates Trade." World Bank Policy Research Working Paper, November (2023).
 
 Publications
