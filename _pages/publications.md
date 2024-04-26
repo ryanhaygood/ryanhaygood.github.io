@@ -15,9 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## [Do For-Profit Colleges Pull Students into Higher Education or away from Better Schools? Evidence from Campus Closures](https://drive.google.com/file/d/1ROwqxrVfhLD1AY_yogxxONKnLT9zgUib/view?usp=sharing) (November 2023; *working paper*)
-
-**Abstract:** Despite efforts to reduce barriers to college attainment among under-represented students, gaps in later-stage human capital investment remain a key contributor to income inequality and intergenerational income persistence. While U.S. for-profit colleges primarily educate economically disadvantaged students, they yield lower average returns than public colleges. Thus, whether for-profit colleges expand access to higher education or divert enrollment from better schools determines how they influence economic mobility. I answer this question quasi-experimentally by tracking college enrollment before and after for-profit college closures. Since college exit decisions are endogenous, I exploit the abrupt closures of hundreds of campuses belonging to several national for-profit chains, comparing enrollment responses in markets with different baseline levels of chain-campus enrollment. I find that total local college enrollment declines approximately one-for-one with the size of for-profit closures, with public-sector substitution estimated to be just 10-20%, indicating that the for-profit sector indeed draws new students into higher education.
+## Do For-Profit Colleges Pull Students into Higher Education or away from Better Schools? (November 2023; *working paper*)
 
 ## [Quality Regulation Creates and Reallocates Trade](https://openknowledge.worldbank.org/server/api/core/bitstreams/569bb37f-8508-4515-9d78-99eaa17dd94e/content) (November 2023, with Zavala et al.; *under review*)
 
