@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student at Yale University with primary interests in industrial organization and labor economics. Specifically, I study education markets using IO models and methods, with the goal of evaluating policies designed to improve their performance and inclusiveness.
+I'm a fourth-year PhD student at Yale University with primary interests in industrial organization and labor economics. Specifically, I study education markets using IO models and methods, with the goal of evaluating policies designed to improve their performance and inclusiveness.
 
 <!-- Most recently, I've been studying how students’ college preferences interact with the evolving structure of U.S. higher education to shape economic opportunity and inequality. -->
 
