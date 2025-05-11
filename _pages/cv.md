@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.A., Yale University (*summa cum laude*; 2021)
+* BA, Yale University (*summa cum laude*; 2021)
   * Majors: Economics & Mathematics; Ethics, Politics, & Economics
-* M.A. in Economics, Yale University (2023)
-* Ph.D in Economics, Yale University (expected 2027)
+* MA in Economics, Yale University (2023)
+* MPhil in Economics, Yale University (2024)
+* PhD in Economics, Yale University (expected 2027)
   * Primary field: Labor Economics (with distinction)
   * Secondary field: Industrial Organization
 
 Working Papers
 ======
-* Haygood, Ryan. "Do For-Profit Colleges Expand Access to Higher Education? Evidence from Campus Closures" November (2023).
+* Haygood, Ryan. "Do For-Profit Colleges Expand Opportunities in Higher Education? Evidence from Campus Closures" November (2023).
 * Zavala, Lucas, Ana Fernandes, Ryan Haygood, Tristan Reed, and Jose-Daniel Reyes. "Quality Regulation Creates and Reallocates Trade." World Bank Policy Research Working Paper, November (2023).
 
 Publications
@@ -30,5 +31,5 @@ Publications
 
 Teaching
 ======
-* ECON 159: Introduction to Game Theory (Fall 2023, 2024)
+* ECON 159: Introduction to Game Theory (Fall 2023, 2024, Spring 2025)
 * ECON 117: Data Analysis & Econometrics (Spring 2024)
