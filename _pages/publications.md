@@ -15,13 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Works in Progress
+# Works in Progress
 
-### How Academic Standards Shape the Returns to For-Profit and Public Colleges
+How Academic Standards Shape the Returns to For-Profit and Public Colleges
 
-### Where Does the Tide Roll? The Causes and Consequences of Out-of-State Enrollment at Public Flagships (with Crossan Cooper)
+Where Does the Tide Roll? The Causes and Consequences of Out-of-State Enrollment at Public Flagships (with Crossan Cooper)
 
-## Working Papers
+# Working Papers
 
 ### [Do For-Profit Colleges Expand Opportunities in Higher Education? Evidence from Campus Closures](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5012450)
 
@@ -31,7 +31,7 @@ author_profile: true
 
 **Abstract:** Quality regulation has become the dominant instrument of trade policy. Panel evidence shows that regulations classified as sanitary and phytosanitary measures and technical barriers to trade both increase trade on average. Other non-tariff measures like quotas decrease trade. Sanitary and phytosanitary measures reallocate trade from lower-income exporting countries to higher-income exporting countries, while technical barriers to trade measures do the opposite. Sanitary and phytosanitary and technical barriers to trade measures increase the sales concentration of exporting firms from lower-income countries, but do not affect the concentration of exporting firms from higher-income countries or importing firms. The costs of quality regulation are primarily borne by exporting firms, especially in lower-income countries.
 
-## Publications
+# Publications
 
 ### [Employment effects of unemployment insurance generosity during the pandemic](https://roar-assets-auto.rbl.ms/documents/30228/CARES-UI_identification_vF(1).pdf) (July 2020, with Altonji et al.)
 
