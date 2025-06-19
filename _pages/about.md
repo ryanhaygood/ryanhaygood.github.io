@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
+I'm a fifth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
 
 <!--I evaluate education policies using a combination of quasi-experimental and structural methods, with the aim of enhancing opportunities for students on the margins of higher education.-->
 

@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Works in Progress
+# In Progress
 
 How Academic Standards Shape the Returns to For-Profit and Public Colleges
 
