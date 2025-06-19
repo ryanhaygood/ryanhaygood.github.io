@@ -21,7 +21,7 @@ Education
 
 Working Papers
 ======
-* Haygood, Ryan. "Do For-Profit Colleges Expand Opportunities in Higher Education? Evidence from Campus Closures" November (2023).
+* Haygood, Ryan. "Do For-Profit Colleges Expand Opportunities in Higher Education? Evidence from Campus Closures." November (2023).
 * Zavala, Lucas, Ana Fernandes, Ryan Haygood, Tristan Reed, and Jose-Daniel Reyes. "Quality Regulation Creates and Reallocates Trade." World Bank Policy Research Working Paper, November (2023).
 
 Publications
@@ -33,3 +33,12 @@ Teaching
 ======
 * ECON 159: Introduction to Game Theory (Fall 2023, 2024, Spring 2025)
 * ECON 117: Data Analysis & Econometrics (Spring 2024)
+
+Grants and Awards
+======
+* Arvid Anderson Fellowship, 2025
+* Cowles Foundation Grant, 2023-28
+  * With Serena Goldberg & Pamela Torola
+* Structural Transformation and Economic Growth (STEG) Grant, 2022-23
+  * With Lucas Zavala, Tristan Reed, Ana Fernandes, & Jose-Daniel Reyes
+  
