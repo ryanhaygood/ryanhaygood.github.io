@@ -21,7 +21,7 @@ redirect_from:
 
 ## Working Papers
 
-* Haygood, Ryan. "Do For-Profit Colleges Expand Opportunities in Higher Education? Evidence from Campus Closures." November (2023).
+* Haygood, Ryan. "Can Public Colleges Cater to For-Profit Students?" September (2025).
 * Zavala, Lucas, Ana Fernandes, Ryan Haygood, Tristan Reed, and Jose-Daniel Reyes. "Quality Regulation Creates and Reallocates Trade." World Bank Policy Research Working Paper, November (2023).
 
 ## Publications
@@ -31,7 +31,7 @@ redirect_from:
 
 ## Teaching
 
-* ECON 159: Introduction to Game Theory (Fall 2023, 2024, Spring 2025)
+* ECON 159: Introduction to Game Theory (Fall 2023-25, Spring 2025)
 * ECON 117: Data Analysis & Econometrics (Spring 2024)
 
 ## Grants and Awards
