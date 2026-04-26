@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Research Interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fifth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
+Welcome! I'm a fifth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
 
 My recent work studies how we can improve post-secondary degree pathways for non-traditional students. The vocational training programs that interest many newcomers to higher education often yield significant returns, but the supply of these degree pathways is constrained: public programs graduate fewer than half of their students, and for-profit alternatives are significantly more expensive. This creates a dilemma for students interested in a career pathway, and it motivates the question at the core of my research: how can we expand the supply of vocational degree programs that are both affordable *and* attainable? To hear more about what I find, check out [this rundown](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood) of my latest projects, or have a look at my [working papers](/research/).
 
