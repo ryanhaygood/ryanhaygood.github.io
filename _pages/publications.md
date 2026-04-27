@@ -23,6 +23,8 @@ author_profile: true
 ### For-Profit Colleges and the Sources of Undermatching
 <small>with Serena Goldberg & Pamela Torola</small>
 
+---
+
 # Working Papers
 
 ### [Can Public Colleges Cater to For-Profit Students?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5012450)
@@ -34,6 +36,8 @@ author_profile: true
 <small>with Crossan Cooper &nbsp;|&nbsp; Presented at AEFP ‘26 &nbsp;|&nbsp; Draft available upon request</small>
 
 **Abstract:** Between 2000 and 2021, the average share of out-of-state enrollment among first-year students at US public flagship universities rose by 41%. Using a combination of novel data sources at institution, municipality, and individual levels, we present evidence that this rise in non-resident enrollment is driven by university recruitment efforts and concentrated among out-of-state students from households in high-income locations. After linking twenty years of commencement records from a large public flagship to graduate work histories, we exploit plausibly exogenous across-cohort variation in state-level enrollment shares to show that each 1 percentage point increase in out-of-state enrollment increases in-state students’ out-migration by 0.24-0.28 percentage points. Despite this spillover effect on student migration, we find that out-of-state students more than pay for themselves through higher tuition revenues and an increased probability of residing in the college-going state: our preferred estimate is that a marginal out-of-state student delivers a lifetime budget surplus of more than $36k.
+
+---
 
 # Older Publications
 
