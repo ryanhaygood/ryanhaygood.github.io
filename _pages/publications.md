@@ -18,7 +18,7 @@ author_profile: true
 # In Progress
 
 ### How Academic Match Shapes the Returns to For-Profit and Public Colleges
-<small>*Presented at SOLE ‘26*</small>
+<small>Presented at SOLE ‘26</small>
 
 ### For-Profit Colleges and the Sources of Undermatching
 <small>with Serena Goldberg & Pamela Torola</small>
@@ -26,12 +26,12 @@ author_profile: true
 # Working Papers
 
 ### [Can Public Colleges Cater to For-Profit Students?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5012450)
-<small>*Presented at APPAM ‘24, SOLE Joint World Conference ‘25, AEFP ‘26*</small>
+<small>Presented at APPAM ‘24, SOLE Joint World Conference ‘25, AEFP ‘26</small>
 
 **Abstract:** For-profit colleges yield lower returns than public alternatives but may attract students who would otherwise forgo higher education. I estimate for-profit students’ second choices from their revealed preferences following abrupt for-profit chain closures. Between 30-50% of for-profit students substitute to public colleges, yet those who do downshift to part-time enrollment, slowing their degree progression. Public diversion is significantly larger where for-profit and public colleges specialize in similar programs. New public programs introduced under a large community-college grant program erode for-profit enrollment only when their fields of study overlap, reinforcing the evidence that limited substitution stems from for-profits’ distinctive vocational programs.
 
 ### Where Does the Tide Roll? The Causes and Consequences of Out-of-State Enrollment at Public Flagships
-<small>with Crossan Cooper &nbsp;|&nbsp; *Presented at AEFP ‘26* &nbsp;|&nbsp; [Draft available upon request]</small>
+<small>with Crossan Cooper &nbsp;|&nbsp; Presented at AEFP ‘26 &nbsp;|&nbsp; Draft available upon request</small>
 
 **Abstract:** Between 2000 and 2021, the average share of out-of-state enrollment among first-year students at US public flagship universities rose by 41%. Using a combination of novel data sources at institution, municipality, and individual levels, we present evidence that this rise in non-resident enrollment is driven by university recruitment efforts and concentrated among out-of-state students from households in high-income locations. After linking twenty years of commencement records from a large public flagship to graduate work histories, we exploit plausibly exogenous across-cohort variation in state-level enrollment shares to show that each 1 percentage point increase in out-of-state enrollment increases in-state students’ out-migration by 0.24-0.28 percentage points. Despite this spillover effect on student migration, we find that out-of-state students more than pay for themselves through higher tuition revenues and an increased probability of residing in the college-going state: our preferred estimate is that a marginal out-of-state student delivers a lifetime budget surplus of more than $36k.
 
