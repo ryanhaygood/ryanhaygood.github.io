@@ -23,7 +23,7 @@ I have served as a Teaching Fellow at Yale in the following courses.
 
 ---
 
-## Selected Student Reviews
+<!-- ## Selected Student Reviews
 
 > "Ryan is the best Econ TF who has ever existed at Yale. I've had him for multiple classes now, and he is the reason I have done well."
 
@@ -35,7 +35,7 @@ I have served as a Teaching Fellow at Yale in the following courses.
 
 > "He answered everyone's questions in great detail, and he really cares about all of his students. I could be so confused and after an hour Office Hours session with Ryan, everything made sense."
 
-> "Legendary!! So patient and great at explaining things."
+> "Legendary!! So patient and great at explaining things." -->
 
 <!-- > "Extremely eloquent in explanations and always willing to provide help, through responding through emails or staying back after office hours. Would come up with new ways to teach the material if the old was not working or making sense." -->
 
