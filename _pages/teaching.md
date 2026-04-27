@@ -4,8 +4,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
-
 I have served as a Teaching Fellow at Yale in the following courses.
 
 ---
