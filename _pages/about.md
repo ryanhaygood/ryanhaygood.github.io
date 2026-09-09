@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I'm a sixth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
+**Welcome!** I am a sixth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
 
-My recent work studies how we can improve post-secondary degree pathways for non-traditional students. The vocational training programs that interest many newcomers to higher education often yield significant returns, but the supply of these degree pathways is constrained: public programs graduate fewer than half of their students, and for-profit alternatives are significantly more expensive. This creates a dilemma for students interested in a career pathway, and it motivates the question at the core of my research: how can we expand the supply of vocational programs that students can actually complete -- and that pay off when they do?
+My recent work studies the productivity of for-profit and public degree pathways for non-traditional college students. The vocational training programs that many of these students pursue often yield significant returns. Yet public programs graduate fewer than half of their students, and for-profit alternatives are significantly more expensive. The supply of affordable vocational training is therefore limited, motivating a core question of my research: how can we expand the supply of high-return vocational programs that students can actually complete?
 
 To hear more about what I find, check out [this rundown](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood) of my latest projects, or have a look at my [working papers](/research/).
 
