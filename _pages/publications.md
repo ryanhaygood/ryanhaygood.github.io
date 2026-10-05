@@ -44,8 +44,7 @@ author_profile: true
 # Older Publications
 
 ### [Quality Regulation Creates and Reallocates Trade](https://openknowledge.worldbank.org/server/api/core/bitstreams/569bb37f-8508-4515-9d78-99eaa17dd94e/content)
-<small>with Lucas Zavala, Ana Fernandes, Tristan Reed, & Jose-Daniel Reyes &nbsp;|&nbsp; Revise and resubmit at *The Economic Journal*
-</small>
+<small>with Lucas Zavala, Ana Fernandes, Tristan Reed, & Jose-Daniel Reyes &nbsp;|&nbsp; Revise and resubmit at *The Economic Journal*</small>
 
 <!-- **Abstract:** Quality regulations imposing minimum product standards have become a central instrument of trade policy. Using disaggregated panel data from middle-income countries, we show that sanitary and phytosanitary (SPS) and technical barriers to trade (TBT) measures increase trade on average, consistent with improved consumer information and contrary to their depiction as "non-tariff barriers." However, their distributional effects differ. SPS measures reallocate trade toward higher-income countries, whereas TBT measures favor lower-income countries. Both increase sales concentration among exporters from lower-income countries only. The evidence indicates that the costs of quality regulation are primarily borne by exporting firms, especially those from lower-income countries. -->
 
