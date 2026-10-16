@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I'm a PhD candidate in Economics at Yale University. My research is in labor economics and industrial organization, with a focus on higher education markets. I study the policies shaping skill formation among students at the margins of higher education.
+**Welcome!** I'm a PhD candidate in Economics at Yale University.
+
+My research is in labor economics and industrial organization, with a focus on higher education markets. I study the policies shaping skill formation among students at the margins of higher education.
 
 **I am on the 2026--2027 academic job market.**
 
-[CV]({{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}) | Job Market Paper | [Email](mailto:ryan.haygood@yale.edu)
+<p><a href="{{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}">CV</a> &#124; Job Market Paper &#124; <a href="mailto:ryan.haygood@yale.edu">Email</a></p>
 
 Read more about my research in this [Yale Economics profile](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood).
 
