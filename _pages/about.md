@@ -7,11 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I am a sixth-year PhD student at Yale University with primary interests in labor economics and industrial organization. I study education markets using a combination of quasi-experimental and structural methods, with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education.
+**Welcome!** I'm a PhD candidate in Economics at Yale University. My research is in labor economics and industrial organization, with a focus on higher education markets. I study the policies shaping skill formation among students at the margins of higher education.
 
-My recent work studies the productivity of for-profit and public degree pathways for non-traditional college students. The vocational training programs that many of these students pursue often yield significant returns. Yet public programs graduate fewer than half of their students, and for-profit alternatives are significantly more expensive. The supply of affordable vocational training is therefore limited, motivating a core question of my research: how can we expand the supply of high-return vocational programs that students can actually complete?
+**I am on the 2026--2027 academic job market.**
 
-Check out [this profile](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood) of my work, or have a look at my [working papers](/research/).
+[CV]({{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}) | Job Market Paper | [Email](mailto:ryan.haygood@yale.edu)
+
+Read more about my research in this [Yale Economics profile](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood).
+
+<!--with the goal of evaluating policies designed to improve opportunities for students on the margins of higher education. -->
+
+<!-- My recent work studies the productivity of for-profit and public degree pathways for non-traditional college students. The vocational training programs that many of these students pursue often yield significant returns. Yet public programs graduate fewer than half of their students, and for-profit alternatives are significantly more expensive. The supply of affordable vocational training is therefore limited, motivating a core question of my research: how can we expand the supply of high-return vocational programs that students can actually complete? -->
+
 
 <!--I evaluate education policies using a combination of quasi-experimental and structural methods, with the aim of enhancing opportunities for students on the margins of higher education.-->
 
