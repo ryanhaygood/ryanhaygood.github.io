@@ -11,7 +11,7 @@ redirect_from:
 
 My recent work studies the productivity of for-profit and public degree pathways for non-traditional college students. The vocational training programs that many of these students pursue often yield significant returns. Yet public programs graduate fewer than half of their students, and for-profit alternatives are significantly more expensive. The supply of affordable vocational training is therefore limited, motivating a core question of my research: how can we expand the supply of high-return vocational programs that students can actually complete?
 
-To hear more about what I find, check out [this rundown](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood) of my latest projects, or have a look at my [working papers](/research/).
+Check out [this profile](https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood) of my work, or have a look at my [working papers](/research/).
 
 <!--I evaluate education policies using a combination of quasi-experimental and structural methods, with the aim of enhancing opportunities for students on the margins of higher education.-->
 
