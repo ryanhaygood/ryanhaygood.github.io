@@ -21,7 +21,7 @@ author_profile: true
 <small>Presented at SOLE ‘26, APPAM '26</small>
 
 ### Returns to For-Profit Graduate Education
-<small>with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a> & <a href="https://sites.google.com/yale.edu/zhengrenzhu/home">Zhengren Zhu</a></small>
+<small>with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a> & <a href="https://sites.google.com/view/zhengrenzhu/home?authuser=0">Zhengren Zhu</a></small>
 
 ### College Accountability under Student Selection
 
