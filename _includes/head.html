@@ -14,6 +14,7 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<!-- Refresh styles after each deployment, even when an older copy is cached. -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
 
 <meta http-equiv="cleartype" content="on">
