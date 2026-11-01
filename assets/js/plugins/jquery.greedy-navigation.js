@@ -14,6 +14,11 @@ var breaks = [];
 
 function updateNav() {
 
+  // Pages using the CSS-only header do not have a greedy navigation menu.
+  if (!$nav.length) {
+    return;
+  }
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav

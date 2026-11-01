@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ryan Haygood"
 title_separator          : "-"
 name                     : &name "Ryan Haygood"
-description              : &description ""
+description              : &description "Ryan Haygood is a PhD candidate in Economics at Yale University, specializing in labor economics, industrial organization, and higher education."
 url                      : https://ryanhaygood.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ryanhaygood/ryanhaygood.github.io"
@@ -62,11 +62,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "Haygood_headshot_260910_crop.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Haygood"
-  avatar           : "Haygood_headshot_260910_crop.jpg"
-  bio              : "Economics PhD Student"
+  avatar           : "Haygood_headshot_260910.jpg"
+  bio              : ""
   location         : "Yale University"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vjrIcI0AAAAJ&hl=en&oi=ao"
-  email            :
+  googlescholar    :
+  email            : "ryan.haygood@yale.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ryan-haygood-985192150"
+  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -116,6 +116,13 @@ author:
   youtube          :
   wikipedia        :
 
+
+# Documents
+# TODO: Replace files/Haygood_Ryan_JMP.pdf with the real paper, then set
+# jmp_pdf to /files/Haygood_Ryan_JMP.pdf. The current PDF is a placeholder.
+jmp_pdf:
+# TODO: Add the final Research Statement PDF and set its site-relative path here.
+research_statement_pdf:
 
 # Reading Files
 include:
@@ -146,6 +153,11 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # Template utilities are kept in the repository, but are not public pages.
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
 keep_files:
   - .git
   - .svn
@@ -263,14 +275,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 

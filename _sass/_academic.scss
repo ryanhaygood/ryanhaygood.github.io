@@ -1,0 +1,309 @@
+/* Keep the masthead and page content on the same alignment grid. */
+.masthead {
+  border-bottom: 1px solid #c9cdd1;
+}
+
+.masthead__inner-wrap {
+  max-width: 1140px;
+  padding-right: 32px;
+  padding-left: 32px;
+}
+
+.masthead__title {
+  margin: 0;
+  font: inherit;
+}
+
+.masthead__menu {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 32px;
+}
+
+.masthead__name {
+  flex: 0 0 auto;
+  padding: 0.5rem 0;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.primary-nav {
+  flex: 1 0 auto;
+}
+
+.masthead .primary-nav__links {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+  gap: 28px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  a {
+    display: block;
+    padding: 0.5rem 0;
+    font-weight: 400;
+  }
+}
+
+/* Focused overrides for the academic profile and primary page layouts. */
+#main.academic-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 56px;
+  width: 100%;
+  max-width: 1140px;
+  margin: 48px auto 64px;
+  padding: 0 32px;
+  font-size: 18px;
+  line-height: 1.65;
+
+  &.academic-layout--profile {
+    grid-template-columns: 260px minmax(0, 1fr);
+  }
+
+  &::before,
+  &::after {
+    display: none;
+  }
+
+  > .sidebar,
+  > .page,
+  > .archive {
+    float: none;
+    width: auto;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page__content > :first-child,
+  .archive > :first-child {
+    margin-top: 0;
+  }
+
+  .archive h1,
+  .archive h2,
+  .archive h3 {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .archive h2 {
+    margin: 2em 0 1em;
+  }
+
+  .archive h3 {
+    margin: 1.8em 0 0.5em;
+    font-size: 20px;
+    line-height: 1.4;
+  }
+
+  .archive small {
+    font-size: 15px;
+    line-height: 1.6;
+  }
+
+  .archive hr {
+    margin: 2em 0;
+  }
+
+  .archive .section-heading {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d6d9dc;
+    margin-bottom: 24px;
+  }
+
+  .archive h2.section-heading {
+    margin-top: 64px;
+  }
+
+  .archive .work-in-progress-title {
+    font-weight: 400;
+  }
+
+  .abstract-text {
+    margin: 12px 0 24px;
+    line-height: 1.3;
+  }
+
+  .paper-abstract {
+    margin: 12px 0 24px;
+
+    summary {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4em;
+      width: fit-content;
+      padding: 3px 10px;
+      border: 1px solid #d6d9dc;
+      border-radius: 3px;
+      color: $link-color;
+      font-size: 15px;
+      line-height: 1.5;
+      list-style: none;
+      cursor: pointer;
+
+      &::-webkit-details-marker {
+        display: none;
+      }
+
+      &::before {
+        content: "+";
+      }
+    }
+
+    &[open] summary::before {
+      content: "\2212";
+    }
+  }
+
+  a,
+  a:visited,
+  a:hover,
+  a:focus,
+  a:active {
+    color: $link-color;
+    text-decoration: none;
+  }
+}
+
+.masthead .primary-nav a,
+.masthead .primary-nav a:visited {
+  color: $masthead-link-color;
+  text-decoration: none;
+}
+
+.masthead .primary-nav a:hover {
+  color: $masthead-link-color-hover;
+}
+
+.masthead .masthead__name,
+.masthead .masthead__name:visited,
+.masthead .masthead__name:hover,
+.masthead .masthead__name:focus {
+  color: #000;
+  text-decoration: none;
+}
+
+.academic-profile {
+  .academic-profile__photo {
+    display: block;
+    width: 260px;
+    max-width: 100%;
+    height: auto;
+    aspect-ratio: 13 / 15;
+    object-fit: cover;
+    object-position: center top;
+    border: 0;
+    border-radius: 5px;
+  }
+
+  .academic-profile__contact {
+    display: flex;
+    align-items: baseline;
+    gap: 0.65em;
+    margin: 16px 0 0;
+    font-size: 17px;
+    line-height: 1.5;
+  }
+}
+
+.paper-status {
+  margin-left: 0.4em;
+  font-size: 17px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.teaching-courses {
+  .teaching-course {
+    margin-top: 32px;
+  }
+
+  .teaching-course h2 {
+    margin: 0 0 8px;
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  .teaching-course p {
+    margin: 0 0 8px;
+    color: #626b73;
+    font-size: 16px;
+  }
+
+  .teaching-course__roles {
+    margin: 4px 0 12px;
+    padding-left: 1.25em;
+    color: #626b73;
+    font-size: 16px;
+
+    li {
+      margin: 0;
+    }
+  }
+}
+
+.document-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5em 1em;
+  margin: 1.5em 0;
+  font-weight: 600;
+}
+
+@media (min-width: 900px) {
+  #main.academic-layout > .archive {
+    padding-left: 40px;
+  }
+}
+
+@media (max-width: 899px) {
+  .masthead__inner-wrap {
+    max-width: 720px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+
+  #main.academic-layout {
+    &,
+    &.academic-layout--profile {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    gap: 32px;
+    max-width: 720px;
+    margin-top: 32px;
+    padding: 0 24px;
+    font-size: 17px;
+  }
+
+  .academic-profile .academic-profile__photo {
+    width: 230px;
+  }
+}
+
+@media (max-width: 479px) {
+  .masthead__menu {
+    gap: 4px 16px;
+  }
+
+  .masthead__inner-wrap {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  #main.academic-layout {
+    gap: 28px;
+    margin-top: 24px;
+    padding: 0 20px;
+  }
+
+  .academic-profile .academic-profile__photo {
+    width: 210px;
+  }
+}

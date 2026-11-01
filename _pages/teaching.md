@@ -1,27 +1,26 @@
 ---
 layout: archive
 title: "Teaching"
+show_title: false
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
-I have served as a Teaching Fellow at Yale in the following courses.
+<div class="teaching-courses">
+  <h1 class="section-heading">Yale University</h1>
 
----
+  <section class="teaching-course">
+    <h2>ECON 159, Introduction to Game Theory</h2>
+    <p>Fall 2023, 2024, 2025 &nbsp;|&nbsp; Prof. Ben Polak &nbsp;|&nbsp; Average evaluation: 4.6 / 5</p>
+    <ul class="teaching-course__roles"><li>Head Teaching Fellow, Fall 2024 and Fall 2025</li></ul>
+    <p>Spring 2025 &nbsp;|&nbsp; Prof. Marina Halac &nbsp;|&nbsp; Average evaluation: 4.7 / 5</p>
+  </section>
 
-## ECON 159: Introduction to Game Theory
-
-<p>Fall 2023, 2024, 2025 &nbsp;|&nbsp; Prof. Ben Polak &nbsp;|&nbsp; Avg. TF rating: 4.6 / 5</p>
-
-<p>Spring 2025 &nbsp;|&nbsp; Prof. Marina Halac &nbsp;|&nbsp; Avg. TF rating: 4.7 / 5</p>
-
----
-
-## ECON 117: Data Analysis & Econometrics
-
-<p>Spring 2024 &nbsp;|&nbsp; Dr. Guillermo Noguera &nbsp;|&nbsp; Avg. TF rating: 4.4 / 5</p>
-
----
+  <section class="teaching-course">
+    <h2>ECON 117, Data Analysis &amp; Econometrics</h2>
+    <p>Spring 2024 &nbsp;|&nbsp; Dr. Guillermo Noguera &nbsp;|&nbsp; Average evaluation: 4.4 / 5</p>
+  </section>
+</div>
 
 <!-- ## Selected Student Reviews
 
