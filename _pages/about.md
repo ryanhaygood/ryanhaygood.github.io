@@ -14,7 +14,7 @@ redirect_from:
 <!-- TODO: Once the final JMP PDF is ready, set jmp_pdf in _config.yml.
      Until then, the job market paper link above points to its Research section. -->
 
-Take a look at my <a class="home-link" href="{{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}">CV</a> or read more about my research in this <a class="home-link" href="https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood">Yale economics profile</a>.
+Take a look at my <a class="home-link" href="{{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}">CV</a> or read more about my research in this <a href="https://economics.yale.edu/news/260406/what-profit-colleges-can-teach-us-meet-economics-phd-student-ryan-haygood">Yale economics profile</a>.
 
 <!-- TODO: Add the final Research Statement PDF and set research_statement_pdf
      in _config.yml. Do not display its link until that document is ready. -->
