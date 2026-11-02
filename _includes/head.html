@@ -11,6 +11,15 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  // Clean up old navigation version stamps without reloading the page.
+  (function () {
+    var pageUrl = new URL(window.location.href);
+    if (/^\d{14}$/.test(pageUrl.searchParams.get('v') || '')) {
+      pageUrl.searchParams.delete('v');
+      window.history.replaceState(window.history.state, '', pageUrl.pathname + pageUrl.search + pageUrl.hash);
+    }
+  })();
 </script>
 
 <!-- For all browsers -->
