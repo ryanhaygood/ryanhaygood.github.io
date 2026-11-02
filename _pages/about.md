@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I am a PhD candidate in Economics at Yale University. My research is in labor economics and industrial organization, with a focus on higher education markets.
+Welcome! I am a PhD candidate in Economics at Yale University. My research is in labor economics and industrial organization, with a focus on higher education markets.
 
 **I am on the 2026–2027 job market.** My <a href="{% if site.jmp_pdf %}{{ site.jmp_pdf | relative_url }}{% else %}{{ '/research/' | relative_url }}#job-market-paper{% endif %}">job market paper</a> studies why for-profit colleges graduate students at twice the rate of community colleges. I show that their streamlined vocational programs deliver higher returns for less-prepared students, and subsidizing them can pay for itself.
 
