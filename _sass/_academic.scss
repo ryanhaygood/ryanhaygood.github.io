@@ -143,18 +143,18 @@
       align-items: center;
       gap: 0.4em;
       width: fit-content;
-      padding: 3px 10px;
-      border: 1px solid #d6d9dc;
-      border-radius: 3px;
-      background-color: #f5f6f7;
+      padding: 2px 7px;
+      border: 1px solid #e2e5e8;
+      border-radius: 2px;
+      background-color: #fafafa;
       color: #626b73;
-      font-size: 15px;
-      line-height: 1.5;
+      font-size: 14px;
+      line-height: 1.4;
       list-style: none;
       cursor: pointer;
 
       &:hover {
-        background-color: #eceff1;
+        background-color: #f1f3f5;
       }
 
       &::-webkit-details-marker {
@@ -169,6 +169,10 @@
     &[open] summary::before {
       content: "\2212";
     }
+  }
+
+  .job-market-link {
+    font-weight: 600;
   }
 
   a,
