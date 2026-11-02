@@ -146,11 +146,16 @@
       padding: 3px 10px;
       border: 1px solid #d6d9dc;
       border-radius: 3px;
-      color: $link-color;
+      background-color: #f5f6f7;
+      color: #626b73;
       font-size: 15px;
       line-height: 1.5;
       list-style: none;
       cursor: pointer;
+
+      &:hover {
+        background-color: #eceff1;
+      }
 
       &::-webkit-details-marker {
         display: none;
@@ -164,6 +169,22 @@
     &[open] summary::before {
       content: "\2212";
     }
+  }
+
+  .document-links {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.65em;
+    margin: 1.5em 0 6px;
+    font-weight: 700;
+  }
+
+  .profile-note {
+    margin: 0;
+    color: #626b73;
+    font-size: 16px;
+    line-height: 1.5;
   }
 
   a,
@@ -251,15 +272,6 @@
       margin: 0;
     }
   }
-}
-
-.document-links {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.5em 1em;
-  margin: 1.5em 0;
-  font-weight: 600;
 }
 
 @media (min-width: 900px) {
