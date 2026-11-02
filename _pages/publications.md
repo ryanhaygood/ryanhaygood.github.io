@@ -9,7 +9,7 @@ author_profile: false
 <h1 id="working-papers" class="section-heading">Working Papers</h1>
 
 <h3 id="job-market-paper">{% if site.jmp_pdf %}<a href="{{ site.jmp_pdf | relative_url }}">Academic Match and the Returns to For-Profit and Public Colleges</a>{% else %}Academic Match and the Returns to For-Profit and Public Colleges{% endif %} <span class="paper-status">[Job Market Paper]</span></h3>
-<small>Presented at SOLE ‘26, APPAM ‘26</small>
+<p class="paper-meta"><small>Presented at SOLE ‘26, APPAM ‘26</small></p>
 
 <p class="abstract-text">Short vocational college programs can deliver substantial returns. Public subsidies for these programs are concentrated in community colleges (CCs). Yet CCs graduate only 30% of their students, while two-year for-profit alternatives graduate twice that share. Using administrative records covering all two-year for-profit and public college students in Texas, I use distance instruments to identify college sector effects among students on the for-profit/public margin. For-profits raise long-run completion rates by 32 percentage points, with effects largest among the weakest students. Higher completion rates do not come at the expense of degree value, as a within-individual design shows that for-profit and CC degrees confer similarly large and durable returns. Expected returns at enrollment exhibit substantial match effects: academically weak students gain more from for-profits because of elevated dropout risk at CCs, while the strongest earn higher returns from CCs, partly due to the option value of academic and four-year pathways. To further investigate mechanisms, I assemble new program-level data on course requirements. For-profit programs require significantly less academic coursework, helping rationalize their comparative advantage for academically weaker students. Finally, I estimate the welfare effects of extending subsidies to for-profits. Accounting for fiscal savings on substitution out of CCs and increased tax revenues, I find the subsidy expansion is self-financing and generates substantial earnings gains.</p>
 
@@ -17,7 +17,7 @@ author_profile: false
      in _config.yml to make the title above a direct PDF link. -->
 
 ### [Can Public Colleges Cater to For-Profit Students?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5012450)
-<small>Presented at APPAM ‘24, SOLE Joint World Conference ‘25, AEFP ‘26</small>
+<p class="paper-meta"><small>Presented at APPAM ‘24, SOLE Joint World Conference ‘25, AEFP ‘26</small></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -25,7 +25,7 @@ author_profile: false
 </details>
 
 ### [Where Does the Tide Roll? The Causes and Consequences of Out-of-State Enrollment at Public Universities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7562460)
-<small>with <a href="https://crossancooper.github.io/">Crossan Cooper</a> &nbsp;|&nbsp; Presented at AEFP ‘26 &nbsp;|&nbsp; Media: <a href="https://www.al.com/news/2025/09/more-out-of-state-students-are-calling-the-university-of-alabama-home-at-peace.html">AL.com</a> &nbsp;|&nbsp; <strong>Under review</strong></small>
+<p class="paper-meta"><small>with <a href="https://crossancooper.github.io/">Crossan Cooper</a> &nbsp;|&nbsp; Presented at AEFP ‘26 &nbsp;|&nbsp; Media: <a href="https://www.al.com/news/2025/09/more-out-of-state-students-are-calling-the-university-of-alabama-home-at-peace.html">AL.com</a> &nbsp;|&nbsp; <strong>Under review</strong></small></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -33,7 +33,7 @@ author_profile: false
 </details>
 
 ### [Quality Regulation Creates and Reallocates Trade](https://drive.google.com/file/d/1bEM9koFSS8FpNWqSfzk-Ga5q0xThdm4N/view)
-<small>with <a href="https://www.lzavala.com/">Lucas Zavala</a>, <a href="https://sites.google.com/site/decrganamargaridafernandes/">Ana Fernandes</a>, <a href="https://sites.google.com/view/tristanreed/home">Tristan Reed</a>, & <a href="https://sites.google.com/site/danielreyes1/home">Jose-Daniel Reyes</a> &nbsp;|&nbsp; <strong>Revise and resubmit at <em>The Economic Journal</em></strong></small>
+<p class="paper-meta"><small>with <a href="https://www.lzavala.com/">Lucas Zavala</a>, <a href="https://sites.google.com/site/decrganamargaridafernandes/">Ana Fernandes</a>, <a href="https://sites.google.com/view/tristanreed/home">Tristan Reed</a>, & <a href="https://sites.google.com/site/danielreyes1/home">Jose-Daniel Reyes</a> &nbsp;|&nbsp; <strong>Revise and resubmit at <em>The Economic Journal</em></strong></small></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -45,7 +45,7 @@ author_profile: false
 <h2 id="work-in-progress" class="section-heading">Work in Progress</h2>
 
 <h3 class="work-in-progress-title">Returns to For-Profit Graduate Education</h3>
-<small>with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a> & <a href="https://sites.google.com/view/zhengrenzhu/home?authuser=0">Zhengren Zhu</a></small>
+<p class="paper-meta"><small>with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a> & <a href="https://sites.google.com/view/zhengrenzhu/home?authuser=0">Zhengren Zhu</a></small></p>
 
 <h3 class="work-in-progress-title">Curriculum Design and College Completion: Evidence from Admission Waitlists</h3>
 
@@ -56,7 +56,7 @@ author_profile: false
 <h2 id="policy-reports" class="section-heading">Policy Reports</h2>
 
 ### [Employment Effects of Unemployment Insurance Generosity During the Pandemic]({{ '/files/CARES_UI_Employment_Report.pdf' | relative_url }})
-<small>July 2020, with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a>, <a href="https://www.zaracontractor.net/">Zara Contractor</a>, <a href="https://lucasfinamor.github.io/">Lucas Finamor</a>, <a href="https://sites.google.com/site/ilselindenlaub/">Ilse Lindenlaub</a>, <a href="https://sites.google.com/yale.edu/costasmeghir/home">Costas Meghir</a>, <a href="https://www.cormacodea.com/">Cormac O’Dea</a>, <a href="https://www.dana-scott.com/">Dana Scott</a>, <a href="https://samvidscholars.org/team/liana-wang/">Liana Wang</a>, and <a href="https://ebonyawashington.com/">Ebonya Washington</a></small>
+<p class="paper-meta"><small>July 2020, with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a>, <a href="https://www.zaracontractor.net/">Zara Contractor</a>, <a href="https://lucasfinamor.github.io/">Lucas Finamor</a>, <a href="https://sites.google.com/site/ilselindenlaub/">Ilse Lindenlaub</a>, <a href="https://sites.google.com/yale.edu/costasmeghir/home">Costas Meghir</a>, <a href="https://www.cormacodea.com/">Cormac O’Dea</a>, <a href="https://www.dana-scott.com/">Dana Scott</a>, <a href="https://samvidscholars.org/team/liana-wang/">Liana Wang</a>, and <a href="https://ebonyawashington.com/">Ebonya Washington</a></small></p>
 
 <details class="paper-abstract">
 <summary>Abstract</summary>
@@ -64,4 +64,4 @@ author_profile: false
 </details>
 
 ### [The Effects of the Coronavirus on Hours of Work in Small Businesses]({{ '/files/Covid_Small_Business_Report.pdf' | relative_url }})
-<small>July 2020, with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a>, <a href="https://www.zaracontractor.net/">Zara Contractor</a>, <a href="https://lucasfinamor.github.io/">Lucas Finamor</a>, <a href="https://sites.google.com/site/ilselindenlaub/">Ilse Lindenlaub</a>, <a href="https://sites.google.com/yale.edu/costasmeghir/home">Costas Meghir</a>, <a href="https://www.cormacodea.com/">Cormac O’Dea</a>, <a href="https://www.dana-scott.com/">Dana Scott</a>, <a href="https://samvidscholars.org/team/liana-wang/">Liana Wang</a>, and <a href="https://ebonyawashington.com/">Ebonya Washington</a></small>
+<p class="paper-meta"><small>July 2020, with <a href="https://sites.google.com/yale.edu/joseph-altonji/home">Joseph Altonji</a>, <a href="https://www.zaracontractor.net/">Zara Contractor</a>, <a href="https://lucasfinamor.github.io/">Lucas Finamor</a>, <a href="https://sites.google.com/site/ilselindenlaub/">Ilse Lindenlaub</a>, <a href="https://sites.google.com/yale.edu/costasmeghir/home">Costas Meghir</a>, <a href="https://www.cormacodea.com/">Cormac O’Dea</a>, <a href="https://www.dana-scott.com/">Dana Scott</a>, <a href="https://samvidscholars.org/team/liana-wang/">Liana Wang</a>, and <a href="https://ebonyawashington.com/">Ebonya Washington</a></small></p>
