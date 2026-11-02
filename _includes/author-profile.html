@@ -12,7 +12,8 @@
     {% assign profile_image = author.avatar | prepend: '/images/' | relative_url %}
   {% endif %}
   <img class="academic-profile__photo" src="{{ profile_image }}" alt="{{ author.name }}" width="260" height="300" itemprop="image">
-  {% if author.email %}
-    <p class="academic-profile__contact"><a href="mailto:{{ author.email }}" itemprop="email">Email</a></p>
-  {% endif %}
+  <p class="academic-profile__contact">
+    {% if author.email %}<a href="mailto:{{ author.email }}" itemprop="email">Email</a><span aria-hidden="true">&middot;</span>{% endif %}
+    <a href="{{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}">CV</a>
+  </p>
 </div>
