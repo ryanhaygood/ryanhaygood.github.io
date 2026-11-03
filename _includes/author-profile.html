@@ -13,7 +13,8 @@
   {% endif %}
   <img class="academic-profile__photo" src="{{ profile_image }}" alt="{{ author.name }}" width="260" height="300" itemprop="image">
   <p class="academic-profile__contact">
-    {% if author.email %}<a href="mailto:{{ author.email }}" itemprop="email">Email</a><span aria-hidden="true">&middot;</span>{% endif %}
-    <a href="{{ '/files/Haygood_Ryan_CV.pdf' | relative_url }}">CV</a>
+    {% if author.email %}<a href="mailto:{{ author.email }}" itemprop="email">Email</a>{% endif %}
+    {% if author.email and author.linkedin %}<span aria-hidden="true">&middot;</span>{% endif %}
+    {% if author.linkedin %}<a href="https://www.linkedin.com/in/{{ author.linkedin }}/" itemprop="sameAs">LinkedIn</a>{% endif %}
   </p>
 </div>
