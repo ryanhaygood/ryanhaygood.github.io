@@ -118,9 +118,8 @@ author:
 
 
 # Documents
-# TODO: Replace files/Haygood_Ryan_JMP.pdf with the real paper, then set
-# jmp_pdf to /files/Haygood_Ryan_JMP.pdf. The current PDF is a placeholder.
-jmp_pdf:
+# Stable path for the latest version of the job market paper.
+jmp_pdf: /files/Haygood_Ryan_JMP.pdf
 # TODO: Add the final Research Statement PDF and set its site-relative path here.
 research_statement_pdf:
 
